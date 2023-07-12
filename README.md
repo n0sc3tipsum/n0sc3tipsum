@@ -15,10 +15,10 @@
 
 I warmly invite you to peruse my repositories, delve into my projects, and explore the various layers of my coding endeavors. Should you have any queries or wish to engage in a technological discourse, please do not hesitate to contact me. 
 
-Welcome to my professional sphere within Github.</div>  
+# Welcome to my professional sphere within Github.</div>  
   
 
--  🚧 I’m currently working on [an AI V-Tuber](https://github.com/n0sc3tipsum) for 020-Corp, and  [avionics software](https://github.com/n0sc3tipsum) for the Karman Space Programme at Imperial College London.  
+- 🚧 I’m currently working on [an AI V-Tuber](https://github.com/n0sc3tipsum) for 020-Corp, and  [avionics software](https://github.com/n0sc3tipsum) for the Karman Space Programme at Imperial College London.  
   
 
 - 🧠 I’m currently learning FreeRTOS, Py-Torch, web development, and much more.  
@@ -30,7 +30,7 @@ Welcome to my professional sphere within Github.</div>
 <br/>  
 
 
-## My Skill Set  
+## As Seen In My Projects
 <table><tr><td valign="top" width="33%">
 
 
@@ -75,7 +75,7 @@ Welcome to my professional sphere within Github.</div>
 
 
 
-### AI Applications  
+### AI/ML Applications  
 <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -84,36 +84,11 @@ Welcome to my professional sphere within Github.</div>
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 </div>
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=n0sc3tipsum&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
+</td></tr></table>  
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=n0sc3tipsum&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=n0sc3tipsum&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=n0sc3tipsum&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=n0sc3tipsum&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Daily Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=n0sc3tipsum&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=n0sc3tipsum&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br/>  
 
 
@@ -129,3 +104,33 @@ Welcome to my professional sphere within Github.</div>
   
 
 <br/>  
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=n0sc3tipsum&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=n0sc3tipsum&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=n0sc3tipsum&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=n0sc3tipsum&&style=flat-square" align="center" />
+</div>  
+
+<br/>  
+
+
+### ✍️ Daily Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=n0sc3tipsum&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=n0sc3tipsum&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+---
+[![](https://visitcount.itsvg.in/api?id=n0sc3tipsum&icon=5&color=12)](https://visitcount.itsvg.in)
+
