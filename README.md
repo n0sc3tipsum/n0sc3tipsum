@@ -115,14 +115,6 @@ I warmly invite you to peruse my repositories, delve into my projects, and explo
 
 ##
 
-<br/>
-
-# 📜 Daily Quote
-<br/> 
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" align="center" /></div>
-
-##
-
 </br>
 
 # 📈 Stats:
