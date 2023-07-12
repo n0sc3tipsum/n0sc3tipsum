@@ -12,7 +12,7 @@
 
 </br>
 
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" align="center" width = "65%" /></div>
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" align="center" width = "70%" /></div>
 
 </br>
 
