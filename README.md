@@ -78,7 +78,7 @@ I warmly invite you to peruse my repositories, delve into my projects, and explo
 
 <br/>
 
-### 🗨️ Languages:  
+## 🗨️ Languages:  
 
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
@@ -93,10 +93,11 @@ I warmly invite you to peruse my repositories, delve into my projects, and explo
   
 <br/>  
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
- 
-## 
+
+##
+
 
 </br>
 
@@ -111,16 +112,15 @@ I warmly invite you to peruse my repositories, delve into my projects, and explo
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0sc3tipsum&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" align="center" width = "50%"/></div>
 <br/> 
 
-### 🥇 Top Contributed Repo
+## 🥇 Top Contributed Repo
 <br/> 
 <div align="center"><img src="https://github-contributor-stats.vercel.app/api?username=n0sc3tipsum&limit=5&theme=gotham&combine_all_yearly_contributions=true" align="center"/></div>
 <br/> 
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <br/> 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=n0sc3tipsum&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" align="center" /></div>
-<br/> 
 
 ## 
 
@@ -129,7 +129,6 @@ I warmly invite you to peruse my repositories, delve into my projects, and explo
 # 📜 Daily Quote
 <br/> 
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" align="center" /></div>
-<br/>  
 
 ##
 
