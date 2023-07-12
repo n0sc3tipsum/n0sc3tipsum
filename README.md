@@ -98,6 +98,13 @@ I warmly invite you to peruse my repositories, delve into my projects, and explo
 
 ##
 
+<br/>
+
+# 📜 Daily Quote
+<br/> 
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" align="center" /></div>
+
+##
 
 </br>
 
@@ -123,14 +130,6 @@ I warmly invite you to peruse my repositories, delve into my projects, and explo
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=n0sc3tipsum&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" align="center" /></div>
 
 ## 
-
-<br/>
-
-# 📜 Daily Quote
-<br/> 
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" align="center" /></div>
-
-##
 
 <br/>
 
