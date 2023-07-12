@@ -37,7 +37,7 @@ I warmly invite you to peruse my repositories, delve into my projects, and explo
 <table align = "center"><tr><td valign="top" width="48%">
 
 ## 🚧 I’m Working On 
-- [An AI V-Tuber](https://github.com/n0sc3tipsum) for 020-Corp.
+- [An AI V-Tuber](https://github.com/n0sc3tipsum/020-Chan) for 020-Corp.
 - [Avionics software](https://github.com/n0sc3tipsum) for the Karman Space Programme at Imperial College London. 
 
 </td><td valign="top" width="48%">
