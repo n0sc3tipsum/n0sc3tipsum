@@ -3,10 +3,10 @@
 
 ### Greetings! I'm Dima Askarov
 
-🎓Currently pursuing Computer Engineering at Imperial College London, I am deeply invested in the intriguing realms of technology and computer science, with a particular interest in Artificial Intelligence, software, and web development. My inclination towards these domains not only stems from academic interest but also from an insatiable curiosity that persistently draws me into a wide range of technological dimensions.
+🎓Currently pursuing Computer Engineering at Imperial College London, I am deeply invested in the intriguing realms of technology and computer science, with a particular interest in Artificial Intelligence, software, and web development. My inclination towards these domains not only stems from academic interest but also from a curiosity that draws me to a wide range of technological dimensions.
 
 
-### 🧠I believe that learning is an ongoing journey and that there's always room for improvement. This mindset fuels my passion for problem-solving, pushing me to consistently expand my skills and knowledge through hands-on projects. 
+### 🧠I believe that learning is an ongoing journey and that there's always room for improvement. This mindset fuels my passion for problem-solving, driving me to consistently expand my skills and apply my knowledge through personal projects. 
 
 </br>
 
@@ -18,7 +18,7 @@
 
 </br>
 
-My Github profile serves as a comprehensive ledger of my ongoing voyage through the diverse landscape of technology - it is the repository of my learnings, my technical endeavors, and the concrete manifestations of my intellectual pursuits. I have had the privilege to work on a variety of projects ranging from developing low-level software to programming Arduinos, STM microcontrollers, and MEMS sensors, to developing rocket avionics software- all documented within these digital walls.
+My Github profile serves as a comprehensive ledger of my ongoing learning journey through the diverse landscape of technology - it is the repository of my learnings, my technical endeavors, and the concrete manifestations of my intellectual pursuits. I have had the privilege to work on a variety of projects ranging from developing low-level software to programming Arduinos, STM microcontrollers, and MEMS sensors, to developing rocket avionics software- all documented within these digital walls.
 
 
 
