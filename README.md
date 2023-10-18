@@ -6,8 +6,6 @@
 🎓Currently pursuing Computer Engineering at Imperial College London, I am deeply invested in the intriguing realms of technology and computer science, with a particular interest in Artificial Intelligence, software, and web development. My inclination towards these domains not only stems from academic interest but also from a curiosity that draws me to a wide range of technological dimensions.
 
 
-### 🧠I believe that learning is an ongoing journey and that there's always room for improvement. This mindset fuels my passion for problem-solving, driving me to consistently expand my skills and apply my knowledge through personal projects. 
-
 </br>
 
 </br>
