@@ -5,9 +5,6 @@
 
 🎓Currently pursuing Computer Engineering at Imperial College London, I am deeply invested in the intriguing realms of technology and computer science, with a particular interest in Artificial Intelligence, software, and web development. My inclination towards these domains not only stems from academic interest but also from a curiosity that draws me to a wide range of technological dimensions.
 
-
-### 🧠I believe that learning is an ongoing journey and that there's always room for improvement. This mindset fuels my passion for problem-solving, driving me to consistently expand my skills and apply my knowledge through personal projects. 
-
 </br>
 
 </br>
@@ -18,15 +15,9 @@
 
 </br>
 
-My Github profile serves as a comprehensive ledger of my ongoing learning journey through the diverse landscape of technology - it is the repository of my learnings, my technical endeavors, and the concrete manifestations of my intellectual pursuits. I have had the privilege to work on a variety of projects ranging from developing low-level software to programming Arduinos, STM microcontrollers, and MEMS sensors, to developing rocket avionics software- all documented within these digital walls.
-
-
-
-### 💼I am always on the lookout for uncharted territories, and keen to learn, improve, and collaborate, so feel free to connect with me, or discuss any projects or ideas you think might be interesting by dropping me an email.
 
 </br>
 
-I warmly invite you to peruse my repositories, delve into my projects, and explore the various layers of my coding endeavors. Should you have any queries or wish to engage in a technological discourse, please do not hesitate to contact me. 
 </div>
 
 ## 
