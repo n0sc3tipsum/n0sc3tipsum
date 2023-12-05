@@ -1,9 +1,9 @@
 
 # <div align="center"> Welcome to My Professional Sphere Within GitHub
 
-### Greetings! I'm Dima Askarov
 
-🎓Currently pursuing Computer Engineering at Imperial College London, I am deeply invested in the intriguing realms of technology and computer science, with a particular interest in Artificial Intelligence, software, and web development. My inclination towards these domains not only stems from academic interest but also from a curiosity that draws me to a wide range of technological dimensions.
+
+
 
 
 
